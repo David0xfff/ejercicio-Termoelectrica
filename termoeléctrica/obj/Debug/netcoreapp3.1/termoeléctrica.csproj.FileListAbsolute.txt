@@ -1,0 +1,14 @@
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.exe
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.deps.json
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.runtimeconfig.json
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.runtimeconfig.dev.json
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.dll
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\bin\Debug\netcoreapp3.1\termoeléctrica.pdb
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.csproj.AssemblyReference.cache
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.AssemblyInfoInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.AssemblyInfo.cs
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.dll
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.pdb
+C:\Users\Desarrollo_Optecom\source\repos\termoeléctrica\termoeléctrica\obj\Debug\netcoreapp3.1\termoeléctrica.genruntimeconfig.cache
